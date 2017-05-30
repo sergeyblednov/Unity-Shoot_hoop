@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f51147c2398e3416d9677fbc06613300
+timeCreated: 1496156539
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Edo SZ
+  fontNames:
+  - Edo SZ
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
